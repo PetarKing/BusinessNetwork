@@ -1,6 +1,6 @@
 # BackEnd
 
-To run the back-end, open a command line in this foler and run:
+To run the backend, open a command line in this foler and run:
 ```
 python businessNet.py
 ```
