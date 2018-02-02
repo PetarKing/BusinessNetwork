@@ -1,11 +1,11 @@
-# BusinessNetwork
+# Business Network
 An Interview Test Project
 
 ## Running the project
 To run the project:
 
-* Start the backend following the instructions in the BackEnd folder
-* Start the frontend following the instructions in the FrontEnd folder
+* Start the backend, following the instructions in the BackEnd folder
+* Start the frontend, following the instructions in the FrontEnd folder
 
 ## About the project
 This project is made as a part of the interview process for the [30Hills](http://30hills.com/) 2018 spring internship program.
@@ -26,7 +26,7 @@ This project is made as a part of the interview process for the [30Hills](http:/
 > You can use any software design patterns you think are appropriate for the implementation.
 
 ### The Solution
-The solution I propose for this probelem is a website prototype, themed as a business network.
+The solution I propose for this problem is a website prototype, themed as a business network.
 For the purpose of this project, I created a Python Flask backend and the Vue JS frontend.
 
 * BackEnd
@@ -37,14 +37,12 @@ For the purpose of this project, I created a Python Flask backend and the Vue JS
     * Generating likes for all the posts and then storing and serving them
 
 * FrontEnd
-  * Bootsrap Design
+  * Bootstrap Design
   * Business News feed
     * Restful API
     * 3 Different Publishers
   * Interactive User inspection
-    * Quility design for data repsentation
+    * Quality design for data repsentation
     * Smart Searching by full names or gender
     * User image based on gender
     * Quick user switching
-
- 
